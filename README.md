@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi I'm さとー 👋
+近畿大学産業理工学部情報学科2年
 <!--
 **sato07f-ui/sato07f-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
