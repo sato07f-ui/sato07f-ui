@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python)](https://skillicons.dev)
+
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sato07f-ui&theme=gruvbox)
@@ -21,6 +24,3 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sato07f-ui&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sato07f-ui&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sato07f-ui&theme=gruvbox&utcOffset=9)
-
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=sato07f-ui&theme=gruvbox)
